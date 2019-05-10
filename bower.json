@@ -1,0 +1,22 @@
+{
+  "name": "angular-ui-button-navi",
+  "authors": [
+    "tinhnqjp <tinhnqjp@gmail.com>"
+  ],
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "button",
+    "navi"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
