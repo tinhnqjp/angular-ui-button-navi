@@ -1,4 +1,4 @@
-angular.module('core').directive('buttonBack', buttonBack);
+angular.module('ui.button-navi').directive('buttonBack', buttonBack);
 buttonBack.$inject = ['$state'];
 function buttonBack($state) {
     var directive = {
